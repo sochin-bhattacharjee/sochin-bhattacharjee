@@ -17,16 +17,16 @@ Let's build something amazing together!
 
 ## Skills
 
-- ![Vite](https://vitejs.dev/logo.svg =30x30) **Vite**  
-- ![React](https://reactjs.org/logo-og.png =30x30) **React**  
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png =30x30) **JavaScript**  
-- ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg =30x30) **HTML**  
-- ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg =30x30) **CSS**  
-- ![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg =30x30) **Tailwind CSS**  
-- ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg =30x30) **Node.js**  
-- ![Express.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png =30x30) **Express.js**  
-- ![MongoDB](https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg =30x30) **MongoDB**  
-- ![Firebase](https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png =30x30) **Firebase**
+- <img src="https://vitejs.dev/logo.svg" alt="Vite" width="30" /> Vite  
+- <img src="https://reactjs.org/logo-og.png" alt="React" width="30" /> React  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="30" /> JavaScript  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="30" /> HTML  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="30" /> CSS  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="30" /> Tailwind CSS  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="30" /> Node.js  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="30" /> Express.js  
+- <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="MongoDB" width="30" /> MongoDB  
+- <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" alt="Firebase" width="30" /> Firebase
 
 
 
