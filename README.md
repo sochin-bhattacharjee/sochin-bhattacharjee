@@ -1,7 +1,11 @@
 ![I am a Frontend Web Developer](https://i.ibb.co.com/jG4jkpg/2109958.jpg)
 ## Hi there 👋, my name is Sochin Bhattacharjee
 ### I am a Frontend Web Developer
+## Location and Email Address
 
+- **Location**: [Rangamati , Bangladesh]
+- **Email**: [sochin.cs@gmail.com]
+  
 ## About Me
 I'm a passionate frontend web developer who loves to create beautiful web experiences.
 
@@ -12,16 +16,18 @@ When I'm not coding, I enjoy exploring design trends, sharing knowledge, and som
 Let's build something amazing together!
 
 ## Skills
-- Vite
-- REACT
-- JS
-- HTML
-- CSS
-- Tailwind
-- Node
-- Express
-- MongoDB
-- Firebase
+
+- ![Vite](https://vitejs.dev/logo.svg) **Vite**  
+- ![React](https://reactjs.org/logo-og.png) **React**  
+- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) **JavaScript**  
+- ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) **HTML**  
+- ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) **CSS**  
+- ![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg) **Tailwind CSS**  
+- ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) **Node.js**  
+- ![Express.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png) **Express.js**  
+- ![MongoDB](https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg) **MongoDB**  
+- ![Firebase](https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png) **Firebase**
+
 
 ## Additional
 - 🔭 I’m currently working on Bistro Boss Project 
@@ -29,7 +35,9 @@ Let's build something amazing together!
 - 💬 Ask me about Web Developer 
 
 ## Social Link
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)' alt='github' height='40'>](https://github.com/sochin-bhattacharjee)  [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXN9xSEe8unzPBEQOeAKXd9Q55efGHGB9BA&s)' alt='facebook' height='40'>](https://www.facebook.com/sochin.bhattacharjee.2024)  
+
+[<img src='https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png' alt='github' height='40'>](https://github.com/sochin-bhattacharjee)  
+[<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXN9xSEe8unzPBEQOeAKXd9Q55efGHGB9BA&s' alt='facebook' height='40'>](https://www.facebook.com/sochin.bhattacharjee.2024) 
 
 ## Github Badges
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
