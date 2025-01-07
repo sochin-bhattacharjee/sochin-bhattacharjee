@@ -17,16 +17,17 @@ Let's build something amazing together!
 
 ## Skills
 
-- ![Vite](https://vitejs.dev/logo.svg) **Vite**  
-- ![React](https://reactjs.org/logo-og.png) **React**  
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) **JavaScript**  
-- ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) **HTML**  
-- ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) **CSS**  
-- ![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg) **Tailwind CSS**  
-- ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) **Node.js**  
-- ![Express.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png) **Express.js**  
-- ![MongoDB](https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg) **MongoDB**  
-- ![Firebase](https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png) **Firebase**
+- ![Vite](https://vitejs.dev/logo.svg =30x30) **Vite**  
+- ![React](https://reactjs.org/logo-og.png =30x30) **React**  
+- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png =30x30) **JavaScript**  
+- ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg =30x30) **HTML**  
+- ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg =30x30) **CSS**  
+- ![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg =30x30) **Tailwind CSS**  
+- ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg =30x30) **Node.js**  
+- ![Express.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png =30x30) **Express.js**  
+- ![MongoDB](https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg =30x30) **MongoDB**  
+- ![Firebase](https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png =30x30) **Firebase**
+
 
 
 ## Additional
